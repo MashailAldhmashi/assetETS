@@ -9,5 +9,6 @@
 <body>
     <h1>AssetMangement</h1>
     <p>mashailETS</p>
+    <input type="text">
 </body>
 </html>
