@@ -8,7 +8,6 @@
 </head>
 <body>
     <h1>AssetMangement</h1>
-    <p>Njood</p>
     <p>mashailETS</p>
     <input type="text">
 </body>
